@@ -1,0 +1,15 @@
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\bin\Debug\net6.0\01-EstruturaDoProjeto.exe
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\bin\Debug\net6.0\01-EstruturaDoProjeto.deps.json
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\bin\Debug\net6.0\01-EstruturaDoProjeto.runtimeconfig.json
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\bin\Debug\net6.0\01-EstruturaDoProjeto.dll
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\bin\Debug\net6.0\01-EstruturaDoProjeto.pdb
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.csproj.AssemblyReference.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.AssemblyInfoInputs.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.AssemblyInfo.cs
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.dll
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\refint\01-EstruturaDoProjeto.dll
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.pdb
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\01-EstruturaDoProjeto.genruntimeconfig.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\01-EstruturaDoProjeto\obj\Debug\net6.0\ref\01-EstruturaDoProjeto.dll
