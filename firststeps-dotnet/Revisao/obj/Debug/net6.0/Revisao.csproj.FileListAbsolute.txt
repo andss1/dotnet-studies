@@ -1,0 +1,15 @@
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\refint\Revisao.dll
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
+C:\Users\simao\dev\dio-dotnet\firststeps-dotnet\Revisao\obj\Debug\net6.0\ref\Revisao.dll
